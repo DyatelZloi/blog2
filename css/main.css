@@ -132,12 +132,3 @@ a:hover {
 .green {
     color: #2BD4AE;
 }
-
-*[placeholder]::-webkit-input-placeholder       {opacity: 1; transition: opacity 0.3s ease;}
-*[placeholder]::-moz-placeholder                {opacity: 1; transition: opacity 0.3s ease;}
-*[placeholder]:-moz-placeholder                 {opacity: 1; transition: opacity 0.3s ease;}
-*[placeholder]:-ms-input-placeholder            {opacity: 1; transition: opacity 0.3s ease;}
-*[placeholder]:focus::-webkit-input-placeholder {opacity: 0; transition: opacity 0.3s ease;}
-*[placeholder]:focus::-moz-placeholder          {opacity: 0; transition: opacity 0.3s ease;}
-*[placeholder]:focus:-moz-placeholder           {opacity: 0; transition: opacity 0.3s ease;}
-*[placeholder]:focus:-ms-input-placeholder      {opacity: 0; transition: opacity 0.3s ease;}
