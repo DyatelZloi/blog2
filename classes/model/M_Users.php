@@ -152,7 +152,7 @@ class M_Users{
 		foreach ($result as $value) {
 			$res [] = $value['name'];
 		}
-		$res = implode(', ', $res);
+		@$res = implode(', ', $res);
 		return $res;
 	}
 

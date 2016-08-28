@@ -1,10 +1,10 @@
-<?php/*
-Шаблон создания новой статьи
-============================
-$notice - уведомление
-title - заголовок
-content - текст
-*/?>
+<?php
+    //Шаблон создания новой статьи
+    //============================
+    //$notice - уведомление
+    //title - заголовок
+    //content - текст
+?>
 <section>
     <b class="red"><?php echo vHelper_flashMessage('notice'); ?></b>
     <form method="post" enctype="multipart/form-data" autocomplete="off">

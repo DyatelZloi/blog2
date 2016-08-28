@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Irreligious
- * Date: 09.12.2015
- * Time: 20:48
- */
 ?>
 <section>
     <form method="post">

@@ -1,5 +1,4 @@
 <?php
-
 function __autoload($classname){
     switch ($classname[0]) {
         case 'C':
